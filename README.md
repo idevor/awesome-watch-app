@@ -9,11 +9,11 @@ Awesome watch app is a list of awesome Apple Watch apps.
 # Recommended Apps
 Below is a list of recommended apps with links to the AppStore.
 
-#### **Web Browsers**
+### **Web Browsers**
 
 [Parrity](https://itunes.apple.com/us/app/parrity/id1448208309#?platform=iphone) (Free)
 
-#### **Social Media**
+### **Social Media**
 
 WhatsApp - [WatchChat](https://itunes.apple.com/gb/app/watchchat-for-whatsapp/id1299535391) (Free), [WAWatch](https://apps.apple.com/us/app/wa-watch-chat-on-watch/id6473674490) (Free)
 
@@ -31,7 +31,7 @@ Facebook Messenger - [Messenger](https://itunes.apple.com/us/app/messenger/id454
 
 Viber - [Viber Messenger](https://itunes.apple.com/us/app/viber-messenger-chats-calls/id382617920?mt=8) (Free)
 
-#### **Reference**
+### **Reference**
 
 ChatGPT Messages - [AnyMessage](https://apps.apple.com/app/id6447493682) (Free)
 
@@ -39,7 +39,7 @@ ChatGPT Messages - [AnyMessage](https://apps.apple.com/app/id6447493682) (Free)
 
 [Shazam](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=Shazam+itunes) (Free)
 
-#### **Weather**
+### **Weather**
 
 [Weathergraph](https://weathergraph.app/) (Free + $11.99/year optional Dark Sky subscription)
 
@@ -53,7 +53,7 @@ ChatGPT Messages - [AnyMessage](https://apps.apple.com/app/id6447493682) (Free)
 
 [Weather Mate Pro](https://apps.apple.com/us/app/weather-mate-pro-forecast/id608515289) ($4.99)
 
-#### **Work Outs**
+### **Work Outs**
 
 [Watch to 5K](https://apps.apple.com/us/app/watch-to-5k-running-program/id1517914828#?platform=appleWatch) ($3.99)
 
@@ -77,7 +77,7 @@ ChatGPT Messages - [AnyMessage](https://apps.apple.com/app/id6447493682) (Free)
 
 [WorkOutDoors](https://itunes.apple.com/us/app/workoutdoors/id1241909999?mt=8) ($4.99)
 
-#### **Complications**
+### **Complications**
 
 [Complicate it](https://itunes.apple.com/us/app/complicate-it/id1051636571?mt=8) (Free)
 
@@ -89,7 +89,7 @@ ChatGPT Messages - [AnyMessage](https://apps.apple.com/app/id6447493682) (Free)
 
 [WatchTheTime!](https://itunes.apple.com/us/app/watchthetime/id1449385366?mt=8) (Free)
 
-#### **Sports**
+### **Sports**
 
 Live Football/Soccer Scores - [FotMob](https://itunes.apple.com/gb/app/fotmob-live-football-scores/id488575683?mt=8) (Free)
 
@@ -97,7 +97,7 @@ Live Sports Scores - [SofaScore](https://itunes.apple.com/gb/app/sofascore-live-
 
 Scores, Stats, Betting Odds - [Sports Alerts](https://itunes.apple.com/us/app/sports-alerts/id432450349?mt=8) (Free)
 
-#### **Heart Tracking**
+### **Heart Tracking**
 
 [Heart Analyzer](https://itunes.apple.com/gb/app/heart-analyzer/id1006420410?mt=8) (Free)
 
@@ -105,13 +105,13 @@ Scores, Stats, Betting Odds - [Sports Alerts](https://itunes.apple.com/us/app/sp
 
 [HeartWatch](https://itunes.apple.com/us/app/heartwatch.-heart-activity/id1062745479?mt=8) ($2.99)
 
-#### **Water Tracking**
+### **Water Tracking**
 
 [My WaterBalance](https://itunes.apple.com/us/app/my-water-balance-daily-drink/id964748094?mt=8) (Free)
 
 [WaterMinder](https://itunes.apple.com/us/app/waterminder-water-hydration/id653031147?mt=8) ($2.99)
 
-#### **Sleep Tracking**
+### **Sleep Tracking**
 
 [Sleep++](https://itunes.apple.com/us/app/sleep++/id1038440371?mt=8) (Free)
 
@@ -121,7 +121,7 @@ Scores, Stats, Betting Odds - [Sports Alerts](https://itunes.apple.com/us/app/sp
 
 [Sleep Watch](https://itunes.apple.com/us/app/sleep-watch-by-bodymatter/id1138066420?mt=8) (Free)
 
-#### **Travel**
+### **Travel**
 
 [Citymapper](https://appsto.re/gb/ce3-B.i) (Free)
 
@@ -129,13 +129,13 @@ Scores, Stats, Betting Odds - [Sports Alerts](https://itunes.apple.com/us/app/sp
 
 [App in the Air](https://itunes.apple.com/us/app/app-in-the-air/id527299553?mt=8) (Free)
 
-#### **Banking**
+### **Banking**
 
 [N26](https://itunes.apple.com/us/app/n26-the-mobile-bank/id956857223?mt=8) (Free)
 
 [Revolut](https://itunes.apple.com/us/app/revolut-beyond-banking/id932493382?mt=8) (Free)
 
-#### **Productivity**
+### **Productivity**
 
 Calculator - [Plusly](https://apps.apple.com/gb/app/id1576071621) (Free)
 
@@ -167,7 +167,7 @@ Tasks - [Todoist](https://itunes.apple.com/us/app/todoist-todo-list-for-organizi
 
 Voice Recording/Transcription - [Just Press Record](https://itunes.apple.com/us/app/just-press-record/id1033342465?mt=8) ($4.99)
 
-#### **Games**
+### **Games**
 
 [Pokémon GO](https://itunes.apple.com/gb/app/pokemon-go/id1094591345?mt=8) (Free)
 
@@ -261,7 +261,7 @@ Voice Recording/Transcription - [Just Press Record](https://itunes.apple.com/us/
 
 [17 Mini Games For Watch & Phone](https://itunes.apple.com/us/app/17-mini-games-for-watch-phone/id1108935309?mt=8)
 
-#### **Media**
+### **Media**
 
 Podcasts - [Outcast for Watch](https://itunes.apple.com/us/app/outcast-for-apple-watch/id1326693810?mt=8&pt=11l8808) ($0.99)
 
@@ -269,7 +269,7 @@ Podcasts - [Overcast](https://itunes.apple.com/us/app/overcast/id888422857?mt=8)
 
 Radio - [TuneInRadio](https://itunes.apple.com/ae/app/tunein-radio/id418987775?mt=8) (Free)
 
-#### **News**
+### **News**
 
 RRS Reader - [Newsify RSS Reader](https://itunes.apple.com/us/app/newsify-rss-reader/id510153374?platform=appleWatch&preserveScrollPosition=true#platform/appleWatch) (Free)
 
@@ -277,7 +277,7 @@ News - [News360](https://itunes.apple.com/us/app/news360-personalized-news/id420
 
 News - [Flipboard](https://itunes.apple.com/us/app/flipboard-news-for-you/id358801284) (Free)
 
-#### **Other**
+### **Other**
 
 Battery Monitoring - [Battery Grapher](https://apps.apple.com/us/app/battery-grapher-for-watch/id1498632956?ls=1) ($1.99)
 
